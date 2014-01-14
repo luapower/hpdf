@@ -1,1 +1,1 @@
-gcc src/*.c -O3 -s -o ../../bin/mingw32/hpdf.dll -shared -Iinclude -I../libpng -I../zlib -L../../bin/mingw32 -lz -lpng
+gcc $CFLAGS src/*.c -shared -o ../../bin/mingw32/hpdf.dll -Iinclude -I../libpng -I../zlib -L../../bin/mingw32 -lz -lpng
