@@ -1,6 +1,6 @@
 ---
-project:  hpdf
-tagline:  LibHARU ffi binding
+project: hpdf
+tagline: PDF writer
 ---
 
 ## `local hpdf = require'hpdf'`
