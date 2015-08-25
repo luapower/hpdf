@@ -1,5 +1,4 @@
 ---
-project: hpdf
 tagline: PDF writer
 ---
 
